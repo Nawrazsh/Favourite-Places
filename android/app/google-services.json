@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "246628527588",
+    "project_id": "ya-mosahel",
+    "storage_bucket": "ya-mosahel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246628527588:android:bb247dce19d64162916bf1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246628527588-ni4tphm7cl2cupnovti62vthqij6m3d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU47HPEwRwoeqAEWbkGi6KQzxf9EjLmkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246628527588-ni4tphm7cl2cupnovti62vthqij6m3d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
